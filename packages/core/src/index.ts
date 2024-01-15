@@ -1,3 +1,5 @@
+import * as _ from 'lodash'
+
 export function a () {
-  return 1;
+  return _.clone('')
 }
